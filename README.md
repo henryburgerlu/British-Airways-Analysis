@@ -5,7 +5,7 @@ Forage Website: https://www.theforage.com/
 
 These projects simulate real-world scenarios and offer hands-on experience with data analysis, machine learning, and deriving actionable business insights.
 
-## ✈️ Project 1: Web Scraping Customer Review Analysis##
+## ✈️ Project 1: Web Scraping Customer Review Analysis 
 
 - **Overview**:  
   In this project, I scraped customer reviews and applied natural language processing (NLP) techniques to uncover key themes in feedback.
