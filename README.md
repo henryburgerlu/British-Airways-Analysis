@@ -1,7 +1,7 @@
 British Airways Data Science Project (Forage)
 
-This repository contains my analysis for a data science project based on a virtual experience with **British Airways**, hosted on the [Forage]([url](https://www.theforage.com/)) platform.
-
+This repository contains my analysis for a data science project based on a virtual experience with **British Airways**, hosted on the Forage platform.
+Forage Website: https://www.theforage.com/
 ✈️ Project 1: Web Scraping Customer Review Analysis
 
 - **Overview**:  
