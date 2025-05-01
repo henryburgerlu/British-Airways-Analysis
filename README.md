@@ -19,7 +19,7 @@ These projects simulate real-world scenarios and offer hands-on experience with 
 - **Goal**:  
   Identify recurring issues and positive highlights from customer reviews to support service improvement efforts.
 
-  Business Recommendations:
+**Business Recommendations**:
   Based on the findings,specific actions for enhancing customer experience—such as improving check-in processes and addressing frequent complaints about delays is provided.
 
 ---
