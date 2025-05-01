@@ -40,5 +40,7 @@ The dataset used in this project was provided by Forage as part of their publicl
 
 Credential  
 I earned a certificate of completion for successfully completing this data science project via Forage.
-This project was done independently through Forage’s open-access platform. I do not claim employment or official affiliation with British Airways.
+This project was done independently through Forage’s open-access platform.
+
+Disclaimer: I do not claim employment or official affiliation with British Airways.
 
