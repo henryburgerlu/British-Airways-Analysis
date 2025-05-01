@@ -18,8 +18,10 @@ Forage Website: https://www.theforage.com/
 - **Goal**:  
   Identify recurring issues and positive highlights from customer reviews to support service improvement efforts.
 
----
+  Business Recommendations:
+  Based on the findings,specific actions for enhancing customer experience—such as improving check-in processes and addressing frequent complaints about delays is provided.
 
+---
 ## 🏖️ Project 2: Holiday Booking Completion Analysis
 
 - **Overview**:  
@@ -33,7 +35,10 @@ Forage Website: https://www.theforage.com/
 
 - **Goal**:  
   Build a predictive model and uncover which customer and booking attributes most impact booking outcomes.
-
+  
+Business Recommendations**:  
+  Data-driven suggestions is provided in the file to optimize booking completion rates—such as targeting certain customer segments and adjusting timing strategies based on 'purchase_lead' and      other features.
+ 
 Purpose:  
 This project was completed as part of my professional portfolio and learning journey. It provided hands-on practice with real business challenges and data.
 
