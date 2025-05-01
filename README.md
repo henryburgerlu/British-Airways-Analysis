@@ -37,7 +37,7 @@ These projects simulate real-world scenarios and offer hands-on experience with 
 - **Goal**:  
   Build a predictive model and uncover which customer and booking attributes most impact booking outcomes.
   
-Business Recommendations**:  
+**Business Recommendations**:  
   Data-driven suggestions is provided in the file to optimize booking completion rates—such as targeting certain customer segments and adjusting timing strategies based on 'purchase_lead' and      other features.
  
 Purpose:  
