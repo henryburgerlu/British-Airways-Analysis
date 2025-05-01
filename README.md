@@ -39,7 +39,10 @@ These projects simulate real-world scenarios and offer hands-on experience with 
   
 **Business Recommendations**:  
   Data-driven suggestions is provided in the file to optimize booking completion rates—such as targeting certain customer segments and adjusting timing strategies based on 'purchase_lead' and      other features.
- 
+
+Tools
+Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
+
 Purpose:  
 This project was completed as part of my professional portfolio and learning journey. It provided hands-on practice with real business challenges and data.
 
