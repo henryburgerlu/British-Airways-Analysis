@@ -4,6 +4,8 @@ This repository contains two data science projects I completed as part of the **
 Forage Website: https://www.theforage.com/
 
 These projects simulate real-world scenarios and offer hands-on experience with data analysis, machine learning, and deriving actionable business insights.
+This project analyzed 50,000 customer booking records to understand what drives booking completion on the British Airways platform. The purpose of this project is to supports sales on focusing their apporach to come up with appealing
+promotions and understand customer booking behaviors. 
 
 ## ✈️ Project 1: Web Scraping Customer Review Analysis
 
