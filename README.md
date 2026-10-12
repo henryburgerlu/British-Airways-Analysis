@@ -39,7 +39,7 @@ promotions and understand customer booking behaviors.
 - **Goal**:  
   Build a predictive model and uncover which customer and booking attributes most impact booking outcomes.
   
-# Summary of Findings – British Airways Booking Completion Analysis
+## Summary of Findings – British Airways Booking Completion Analysis
 ### Using a Random Forest model tuned through Stratified K-Fold Cross-Validation to handle imbalanced data, the top factors influencing whether a customer completes a booking were:
 
 - **Purchase Lead**: (how early the booking is made) - most influential
@@ -51,7 +51,7 @@ promotions and understand customer booking behaviors.
 Customers who booked further in advance, selected earlier flight hours, and had longer stays or more passengers were significantly more likely to complete their bookings.
 
 Model AUC-ROC score (0.78) suggests the model can effectively prioritize leads and be used as a triage tool by the marketing team.
-#  Business Recommendation
+## Business Recommendation
 
 Since purchase_lead is the strongest predictor, British Airways should:
 
