@@ -39,11 +39,36 @@ promotions and understand customer booking behaviors.
 - **Goal**:  
   Build a predictive model and uncover which customer and booking attributes most impact booking outcomes.
   
-**Business Recommendations**:  
-  Data-driven suggestions is provided in the file to optimize booking completion rates—such as targeting certain customer segments and adjusting timing strategies based on 'purchase_lead' and      other features.
+# Summary of Findings – British Airways Booking Completion Analysis
+### Using a Random Forest model tuned through Stratified K-Fold Cross-Validation to handle imbalanced data, the top factors influencing whether a customer completes a booking were:
 
-Tools
-Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
+- **Purchase Lead**: (how early the booking is made) - most influential
+- **Flight Hour**: (time of flight)
+- **Length of Stay**: (duration of trip)
+- **Number of Passengers**: (size of group)
+- **Booking Origin**: (specific countries stood out)
+
+Customers who booked further in advance, selected earlier flight hours, and had longer stays or more passengers were significantly more likely to complete their bookings.
+
+Model AUC-ROC score (0.78) suggests the model can effectively prioritize leads and be used as a triage tool by the marketing team.
+#  Business Recommendation
+
+Since purchase_lead is the strongest predictor, British Airways should:
+
+Identify early planners (e.g., 40+ days in advance) and proactively engage them with:
+
+Reminders to complete bookings
+
+Loyalty incentives or personalized offers
+
+Bundled upsells: Offer travel insurance, preferred seats, or meals at a discount to lock in commitment early
+
+Travel insurance or extras like seats/meals to increase commitment
+
+Additionally, flights with early departure hours and longer trip durations show higher conversion. These can be featured more prominently in marketing and search results.
+
+The sales_channel_Mobile feature appears among the top predictors, suggesting platform choice may influence conversions, perhaps to look into streamlining UX and set up checkout reminders. 
+Lastly, by combining behavioral insights with country-level booking patterns, targeted regional campaigns can be launched in high-performing markets (e.g., Malaysia showed significance in the model).
 
 Purpose:  
 This project was completed as part of my professional portfolio and learning journey. It provided hands-on practice with real business challenges and data.
